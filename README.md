@@ -118,6 +118,7 @@ Se você encontrar problemas:
 ## ✍️ Autores
 
 * **Felipe Baz** - *Trabalho Inicial* - [Felipe-Baz](https://github.com/Felipe-Baz)
+* Clara Cavalheiro* - *Trabalho Inicial* - [Clara- Cavalheiro] 
 
 ## 📝 Licença
 
